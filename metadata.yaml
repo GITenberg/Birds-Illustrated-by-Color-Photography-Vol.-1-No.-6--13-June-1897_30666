@@ -1,0 +1,31 @@
+_repo: Birds-Illustrated-by-Color-Photography-Vol.-1-No.-6--13-June-1897_30666
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30666-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf:
+- Birds, Illustrated by Color Photography
+- Animals-Wild-Birds
+- Animal
+gutenberg_issued: '2009-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30666'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Periodicals'
+- !lcsh 'Zoological illustration -- Periodicals'
+- !lcsh 'Birds -- Periodicals'
+- !lcc 'QL'
+title: "Birds, Illustrated by Color Photography, Vol. 1, No. 6\r\nJune, 1897"
+url: http://www.gutenberg.org/ebooks/30666
